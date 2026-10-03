@@ -4,6 +4,7 @@
     "https://giscus.vercel.app",
     "https://giscus-component.vercel.app",
     "https://otakustream-five.vercel.app"
+    "https://otakustream.pages.dev"
   ],
   "originsRegex": [
     "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
